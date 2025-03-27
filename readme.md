@@ -13,8 +13,7 @@ Fique à vontade para explorar e conhecer mais sobre Busan, uma cidade cheia de 
           src="./assets/img p.png"></a>
 </p>
 
-[🔗CLIQUE AQUI PARA ACESSAR😍](https://lailaamorim.github.io/Local-Tur-sticoII
-/)
+[🔗CLIQUE AQUI PARA ACESSAR😍](https://lailaamorim.github.io/Local-Tur-sticoII/)
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
